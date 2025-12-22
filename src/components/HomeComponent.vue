@@ -8,5 +8,6 @@
     <ul>
         <li><a href="#/mods">Mods</a></li>
         <li><a href="#/modpacks">Modpacks</a></li>
+        <li><a href="#/about">About me</a></li>
     </ul>
 </template>

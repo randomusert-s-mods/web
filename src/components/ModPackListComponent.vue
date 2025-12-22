@@ -13,6 +13,7 @@
         <h1>gregtech pack 2</h1>
         <h1>NOT RELEASED YET!</h1>
     </div>
+    <button id="back"><a href="#/">Back to home</a></button>
 </template>
 
 <style scoped>
@@ -33,5 +34,13 @@
     border-radius: 19px;
     width: 600px;
     margin-top: 20px;
+}
+
+#back {
+    margin-top: 20px;
+    border-radius: 19px;
+    border: 2px solid #464746;
+    background-color: #f0f0f01f;
+    padding: 10px 20px;
 }
 </style>
