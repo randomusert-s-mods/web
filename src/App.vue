@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import ModListComponent from './components/ModListComponent.vue';
 import HeaderComponent from './components/HeaderComponent.vue';
 import FooterComponent from './components/FooterComponent.vue';
 </script>
