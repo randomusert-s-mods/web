@@ -1,0 +1,8 @@
+{
+    "name": "vue: randomusert'a mods web",
+    "customizations": {
+        "vscode": {
+            "extensions": ["vue.volar"]
+        }
+    }
+}
